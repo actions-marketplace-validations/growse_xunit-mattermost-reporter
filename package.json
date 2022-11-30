@@ -30,7 +30,7 @@
     "@types/bent": "^7.3.2",
     "bent": "^7.3.12",
     "junitxml-to-javascript": "^1.1.4",
-    "moment": "^2.29.1"
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "@types/jest": "^26.0.23",
